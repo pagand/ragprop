@@ -3,3 +3,4 @@ myenv/*
 .venv/*
 data/batch/*
 *.env
+.ipynb_checkpoints*
